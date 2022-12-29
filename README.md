@@ -1,2 +1,2 @@
 # Otp-Based-Signup-login
-It allows user to signup with otp
+It allows user to signup and with otp
